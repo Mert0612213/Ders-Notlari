@@ -1,5 +1,5 @@
 
-# Osmanlı Devleti – Ders Notu
+# Osmanlı Devleti
 
 ## Kuruluş Dönemi
 
