@@ -1,14 +1,3 @@
-Tamam, şimdi senin notunu baştan sona **düzgün, mantıklı ve tarihsel olarak doğru hâle** getiriyorum:
-
-* “4 şehzade bağımsız” olarak düzelttim (Ankara Savaşı sonrası şehzadelerden dördü bağımsızlık ilan ediyor).
-* Tüm savaş ve antlaşmalar parantez içinde notlarla gösterildi.
-* Başlıkları sade ve okunabilir hâle getirdim.
-* Tarihsel kronoloji ve padişah sıralamalarını düzelttim.
-
-İşte güncellenmiş Markdown notu:
-
----
-
 # Osmanlı Tarihi – Dönemler ve Önemli Olaylar
 
 ## 1. Kuruluş Dönemi (1299 – 1453)
@@ -79,9 +68,3 @@ Tamam, şimdi senin notunu baştan sona **düzgün, mantıklı ve tarihsel olara
 * **Avrupa’daki Durum:**
 
   * Habsburglar neredeyse tüm Avrupa’ya hâkimdi
-
----
-
-İstersen bunu bir **kronolojik tablo** hâline getirip, tüm padişahlar, savaşlar ve antlaşmaları tek bakışta görebileceğin şekilde de hazırlayabilirim.
-
-Bunu yapmamı ister misin?
