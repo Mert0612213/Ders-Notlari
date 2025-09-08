@@ -1,53 +1,70 @@
-# Osmanlı Devleti – Önemli Dönemler ve Olaylar
+# Osmanlı Tarihi – Dönemler ve Önemli Olaylar
 
-## Kuruluş Dönemi (1299 – 1453)
-- **1299** Osman Gazi → Osmanlı Beyliği kuruldu.  
-- **1326** Orhan Gazi → Bursa fethedildi, başkent oldu.  
-- **1362** I. Murad → Edirne başkent oldu.  
-- **1389** I. Kosova Savaşı → Osmanlı vs. Haçlılar (Sırp ağırlıklı).  
-- **1402** Ankara Savaşı → Osmanlı vs. Timur. (**Yenilgi → Fetret Devri**)  
-- **1413** Çelebi Mehmet → Osmanlı yeniden toparlandı.  
-- **1444** Varna Zaferi → Osmanlı vs. Haçlılar.  
-- **1448** II. Kosova → Osmanlı vs. Haçlılar.  
+## 1. Kuruluş Dönemi (1299 – 1453)
 
----
+* **Kuruluş Yılı:** 1299
+* **Kurucu:** Osman Gazi
+* **Padişahlar Sıralaması:**
 
-## Yükselme Dönemi (1453 – 1579)
-- **1453** İstanbul’un Fethi → Osmanlı vs. Bizans (Fatih Sultan Mehmet).  
-- **1514** Çaldıran → Osmanlı vs. Safeviler.  
-- **1517** Mercidabık & Ridaniye → Osmanlı vs. Memlükler (**Halifelik Osmanlı’ya geçti.**)  
-- **1526** Mohaç Meydan Muharebesi → Osmanlı vs. Macaristan.  
-- **1538** Preveze Deniz Zaferi → Osmanlı vs. Haçlı donanması (Barbaros Hayrettin Paşa).  
-- Osmanlı **en geniş sınırlara** Kanuni Sultan Süleyman zamanında ulaştı.  
+  * Osman Gazi
+  * Orhan Gazi
+  * I. Murad
+  * I. Bayezid
+* **Önemli Notlar:**
+
+  * Osmanlı’da hep **saltanat sistemi** vardır.
+  * Niğbolu Savaşı (1396) (Niğbolu ile ayakta kalır)
+  * Ankara Savaşı (1402) (Osmanlı Ankara savaşında yıkılır)
+  * Ankara Savaşı sonrası **4 şehzade bağımsızlığını ilan etti**
 
 ---
 
-## Duraklama Dönemi (1579 – 1699)
-- **1571** İnebahtı Deniz Savaşı → Osmanlı vs. Haçlı donanması (Avusturya, Venedik, İspanya). (**Yenilgi**)  
-- **1683** II. Viyana Kuşatması → Osmanlı vs. Avusturya ve müttefikleri (**Yenilgi**).  
-- **1699** Karlofça Antlaşması → Osmanlı vs. Kutsal İttifak (Avusturya, Venedik, Lehistan, Malta). (**İlk büyük toprak kaybı**)  
+## 2. Yükselme Dönemi (15. – 16. Yüzyıl)
+
+* **Öne Çıkan Padişahlar:**
+
+  * II. Murad
+  * Fatih Sultan Mehmet
+  * II. Bayezid
+  * I. Selim
+  * I. Süleyman
+* **Önemli Notlar:**
+
+  * Osmanlı doğuda en geniş sınıra ulaştı (Ferhat Paşa Antlaşması)
+  * Batıda Bucak ve Balkanlarda genişleme gerçekleşti
 
 ---
 
-## Gerileme Dönemi (1699 – 1792)
-- **1718** Pasarofça Antlaşması → Osmanlı vs. Avusturya & Venedik. (**Lale Devri başladı**)  
-- **1770** Çeşme Deniz Savaşı → Osmanlı vs. Rusya (**Deniz yenilgisi**).  
-- **1774** Küçük Kaynarca Antlaşması → Osmanlı vs. Rusya (**Ağır şartlı kayıp**).  
+## 3. Duraklama Dönemi (17. Yüzyıl)
+
+* **Önemli Notlar:**
+
+  * Doğuda sınırlar dengelendi, Avrupa ile ilişkiler devam etti
+  * Osmanlı’da diplomasi ve iç düzenleme ön plana çıktı
 
 ---
 
-## Dağılma Dönemi (1792 – 1922)
-- **1878** Berlin Antlaşması → Osmanlı vs. Avrupa Devletleri (Balkan toprak kaybı).  
-- **1912 – 1913** Balkan Savaşları → Osmanlı vs. Balkan Devletleri (Sırbistan, Bulgaristan, Yunanistan, Karadağ).  
-- **1918** Mondros Ateşkesi → Osmanlı vs. İtilaf Devletleri (fiilen son).  
-- **1922** Mudanya Ateşkesi → Osmanlı vs. İtilaf Devletleri (resmen son).  
+## 4. Gerileme Dönemi (18. Yüzyıl)
+
+* **Önemli Olaylar:**
+
+  * 1699 Karlofça Antlaşması (toprak kaybettik)
+  * II. Viyana Kuşatması (Avrupa’da üstünlüğümüz azaldı)
 
 ---
 
-## Kısa Özet
-- İlk deniz savaşı: **1416 Gelibolu (Venedik)**  
-- En geniş sınırlar: **Kanuni Sultan Süleyman**  
-- İlk büyük toprak kaybı: **1699 Karlofça (Avusturya, Venedik, Lehistan, Malta)**  
-- İlk büyük deniz yenilgisi: **1571 İnebahtı (Haçlı donanması)**  
-- Osmanlı’yı fiilen bitiren: **1918 Mondros (İtilaf Devletleri)**  
-- Osmanlı’yı resmen bitiren: **1922 Mudanya (İtilaf Devletleri)**  
+## 5. Dağılma Dönemi (19. – 20. Yüzyıl)
+
+* **Kutsal İttifak:**
+
+  * Malta, Rusya, Lehistan, Venedik, Avusturya (Malta; Rusya Altın Ordu yıkılınca birleşir)
+* **Deniz Savaşları:**
+
+  * Osmanlı’nın ilk deniz savaşı Venedik ile yapıldı
+* **Diplomasi ve Mütekabiliyet:**
+
+  * Osmanlı, dağılma döneminde çok **mütekabiliyet** (karşılıklı) uyguladı
+  * Mudanya Antlaşması (hiç kurşun atmadan bölgeleri aldık)
+* **Avrupa’daki Durum:**
+
+  * Habsburglar neredeyse tüm Avrupa’ya hâkimdi
