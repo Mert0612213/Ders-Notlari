@@ -35,7 +35,12 @@ Elektronların atom içindeki konumunu ve enerji durumlarını tanımlamak için
 | 3 | 0, 1, 2         | 3s, 3p, 3d  |
 | 4 | 0, 1, 2, 3      | 4s, 4p, 4d, 4f |
 
-Orbital tipleri ve şekilleri görsel olarak gösterilmiştir: ![Orbital Şekilleri](https://muhendishane.org/wp-content/uploads/2019/05/ey02.png?w=640) - **s:** Küresel - **p:** Dumbbell (iki loblu) - **d:** Dört yapraklı veya çift loblu - **f:** Karmaşık çok loblu
+Orbital tipleri ve şekilleri görsel olarak gösterilmiştir:
+![Orbital Şekilleri](https://muhendishane.org/wp-content/uploads/2019/05/ey02.png?w=640)
+- **s:** Küresel
+- **p:** Dumbbell (iki loblu)
+- **d:** Dört yapraklı veya çift loblu
+- **f:** Karmaşık çok loblu
 
 ---
 
