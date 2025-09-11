@@ -33,13 +33,13 @@
 
 ---
 
-## 4. Uyarılmış Elektron Dizilimi
+## 4. Uyarılmış Elektron Dizilimi ve İyonlaşma
 
-- **Tanım:** Bir atom enerji alırsa, elektron en yüksek enerjili orbitalden daha yüksek enerjiye geçebilir.  
-- **Örnek:** Oksijen (O, Z=8)  
+- **Tanım:** Bir atom enerji alırsa veya bir elektron kaybederse, elektron dizilimi değişebilir.  
+- **İyonlaşma örneği:** Oksijen (O, Z=8) → 1 elektron kaybederse:  
   - Temel hâl: 1s² 2s² 2p⁴  
-  - +1 enerji verilirse: 1s² 2s² 2p³ 3s¹ gibi uyarılmış durum oluşabilir.  
+  - 1 elektron kaybı sonrası: 1s² 2s² 2p³  
 
 **Notlar:**  
-- Uyarılmış elektron, **n, l, mₗ, mₛ** değerlerini aynı bırakır.  
+- Kaybedilen veya uyarılmış elektron, **n, l, mₗ, mₛ** değerlerini aynı bırakır.  
 - Periyodik cetvelde yeri değişmez, fakat **çap, enerji, kimyasal aktiflik** gibi özellikler değişebilir.
