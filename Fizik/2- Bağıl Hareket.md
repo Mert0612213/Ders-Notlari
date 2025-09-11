@@ -8,13 +8,11 @@ Hareketin gözlemlendiği referans çerçevesine göre hız ve yön değişebili
 
 ### Temel Formül (1 Boyut)
 
-$$
-v_{AC} = v_{AB} + v_{BC}
-$$
+v_AC = v_AB + v_BC
 
-- $v_{AC}$ → C cismine göre A cisminin hızı  
-- $v_{AB}$ → B cismine göre A cisminin hızı  
-- $v_{BC}$ → C cismine göre B cisminin hızı  
+- v_AC → C cismine göre A cisminin hızı  
+- v_AB → B cismine göre A cisminin hızı  
+- v_BC → C cismine göre B cisminin hızı  
 
 ---
 
@@ -23,15 +21,11 @@ $$
 - Tren 5 m/s hızla hareket ediyor.  
 - Yolcunun tren içindeki hızı 2 m/s.
 
-**Yerdeki hız:**  
-$$
-v_{\text{yolcu/yer}} = v_{\text{yolcu/tren}} + v_{\text{tren/yer}} = 2 + 5 = 7 \, \text{m/s}
-$$`
+**Yerdeki hız (aynı yönde):**  
+v_yolcu/yer = v_yolcu/tren + v_tren/yer = 2 + 5 = 7 m/s
 
-- Eğer yolcu trenin ters yönünde yürürse:  
-$$
-v_{\text{yolcu/yer}} = -2 + 5 = 3 \, \text{m/s}
-$$
+**Yerdeki hız (ters yönde):**  
+v_yolcu/yer = -2 + 5 = 3 m/s
 
 ---
 
@@ -41,9 +35,7 @@ $$
 - Araç B, A’ya göre 20 km/h hızla ilerliyor (aynı yönde).  
 
 **B’ye göre A’nın hızı:**  
-$$
-v_{A/B} = v_{A/yer} - v_{B/yer} = 60 - 20 = 40 \, \text{km/h}
-$$
+v_A/B = v_A/yer - v_B/yer = 60 - 20 = 40 km/h
 
 ---
 
@@ -56,33 +48,22 @@ Bir cismin hareketinin **iki farklı bileşene** ayrıldığı durumdur:
 
 ### Temel Formüller
 
-- Düz x yönünde hareket:  
-$$
-x = v \cdot t
-$$
-
-- İki bileşenli hareket:  
-$$
-v_{\text{toplam}} = \sqrt{v_x^2 + v_y^2}  
-$$
+- Düz x yönünde hareket: x = v · t  
+- İki bileşenli hareket: v_toplam = √(v_x² + v_y²)  
 
 ---
 
 ### Örnek 1: Nehir ve Yüzücü
 
-- Nehir hızı: $v_r = 2 \, \text{m/s}$  
-- Yüzücünün suya göre hızı: $v_s = 3 \, \text{m/s}$ (nehire dik)  
-- Nehrin genişliği: $L = 100 \, \text{m}$
+- Nehir hızı: v_r = 2 m/s  
+- Yüzücünün suya göre hızı: v_s = 3 m/s (nehire dik)  
+- Nehrin genişliği: L = 100 m
 
 **Süre:**  
-$$
-t = \frac{L}{v_s} = \frac{100}{3} \approx 33.33 \, \text{saniye}
-$$
+t = L / v_s = 100 / 3 ≈ 33.33 saniye
 
 **Yolcunun kıyıya göre kayması (nehir yönünde):**  
-$$
-x = v_r \cdot t = 2 \cdot 33.33 \approx 66.66 \, \text{m}
-$$
+x = v_r · t = 2 · 33.33 ≈ 66.66 m
 
 > Not: Dere sola ya da sağa aksa bile yüzücünün **nehire dik hareket süresi değişmez**, yalnızca x yönündeki yer değiştirmesi değişir.
 
@@ -91,42 +72,27 @@ $$
 ### Örnek 2: Nehir Boyunca Hedefe Gitmek
 
 - Yüzücü karşı kıyıya tam dik gitmek istiyor.  
-- Gereken açı:  
-$$
-\theta = \arcsin\left(\frac{v_r}{v_s}\right)
-$$
+- Gereken açı: θ = arcsin(v_r / v_s)  
 
-- Toplam hız (karşı kıyıya göre):  
-$$
-v_{\text{toplam}} = \sqrt{v_s^2 - v_r^2}  
-$$
+- Toplam hız (karşı kıyıya göre): v_toplam = √(v_s² - v_r²)  
 
-- Süre:  
-$$
-t = \frac{L}{v_{\text{toplam}}}  
-$$
+- Süre: t = L / v_toplam  
 
 ---
 
 ### Örnek 3: Yatay + Dikey Bileşen
 
-- Nehir boyunca hareket: $x = v_r \cdot t$  
-- Nehre dik: $y = v_s \cdot t$  
-- Toplam yer değiştirme:  
-$$
-s = \sqrt{x^2 + y^2}
-$$
+- Nehir boyunca hareket: x = v_r · t  
+- Nehre dik: y = v_s · t  
+- Toplam yer değiştirme: s = √(x² + y²)
 
 ---
 
 ## Özet Kurallar
 
-1. **Bağıl hareket:** Hızlar **referans çerçevesine göre toplanır**.  
-2. **Bileşik hareket:** Hareket **dik bileşenlere ayrılır**, süre x eksenine göre hesaplanır.  
+1. **Bağıl hareket:** Hızlar referans çerçevesine göre toplanır.  
+2. **Bileşik hareket:** Hareket dik bileşenlere ayrılır; süre x eksenine göre hesaplanır.  
 3. Nehir problemlerinde:  
    - Dik hareket süresi = Nehre dik mesafe / yüzücünün suya göre hızı  
    - Nehre paralel kayma = Nehir hızı × süre  
-   - Hedefe doğru gitmek için açı = $\arcsin(v_r/v_s)$  
-
----
-
+   - Hedefe doğru gitmek için açı = arcsin(v_r / v_s)
