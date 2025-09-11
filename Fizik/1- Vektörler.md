@@ -16,8 +16,9 @@
 2. **Yön**: Vektörün okunun gösterdiği taraf.
 3. **Büyüklük (şiddet)**: Vektörün uzunluğu ya da sayısal değeri.
    
-> Eğer $\vec{d} = \vec{b}$ ise, bu vektörlerin büyüklük, doğrultu ve yönleri aynıdır.  
-> Eğer $\vec{a} = -\vec{b}$ ise, bu vektörlerin doğrultu ve büyüklükleri aynı, yönleri zıttır.
+$\vec{d} = \vec{b} \implies$ Büyüklük, doğrultu ve yön aynı  
+$\vec{a} = -\vec{b} \implies$ Doğrultu ve büyüklük aynı, yön zıt
+
 
 
 ---
