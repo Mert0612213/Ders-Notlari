@@ -15,9 +15,10 @@
 1. **Doğrultu**: Vektörün üzerinde bulunduğu çizgi.
 2. **Yön**: Vektörün okunun gösterdiği taraf.
 3. **Büyüklük (şiddet)**: Vektörün uzunluğu ya da sayısal değeri.
+   
+$\vec{d} = \vec{b} \implies$ Büyüklük, doğrultu ve yön aynı  
+$\vec{a} = -\vec{b} \implies$ Doğrultu ve büyüklük aynı, yön zıt
 
-$\displaystyle \vec{d} = \vec{b} \implies$ Büyüklük, doğrultu ve yön aynı  
-$\displaystyle \vec{a} = -\vec{b} \implies$ Doğrultu ve büyüklük aynı, yön zıt
 
 
 ---
